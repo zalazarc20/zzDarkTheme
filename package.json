@@ -1,0 +1,32 @@
+{
+    "name": "zzdarktheme",
+    "displayName": "zzDarkTheme",
+    "description": "",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zzDark THEME",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zzDark THEME-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/icon.png",
+    "author": {
+        "name": "Carlos Zalazar",
+        "email": "zalazarc20@gmail.com",
+        "url": "https://github.com/zalazarc20"
+    },
+    "repository": {
+        "url": "https://github.com/zalazarc20/zzDarkTheme.git",
+        "type": "git"
+    },
+    "publisher": "zalazarc20"
+}
