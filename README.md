@@ -1,8 +1,6 @@
-# Welcome to my theme
+# 👋 Hi, Welcome to my theme 🤩 zzDarkTheme ✅
 
-#### The theme was created thinking about the color blue and its variants of styles
+### 👉 Theme designed with dark and blue tones
 
 
-![Example 1](https://i.imgur.com/Ahz9pHP.png)
-![Example 2](https://i.imgur.com/oppRgcz.png)
-![Example 3](https://i.imgur.com/TnGzIDE.png)
+![Example 1](https://i.imgur.com/GC2cx3K.png)
